@@ -46,7 +46,12 @@ I focus on the **Modern Data Stack** and **Cloud-Native** technologies essential
 ---
 
 ### 📈 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panchalaman&show_icons=true&theme=dracula&hide_border=true)
+
+<!-- GitHub Stats Card -->
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panchalaman&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalaman&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
