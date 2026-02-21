@@ -49,20 +49,13 @@ I focus on the **Modern Data Stack** and **Cloud-Native** technologies essential
 
 ### 📈 GitHub Stats
 
-<p align="center">
+### 📈 GitHub Stats
 
-<!-- GitHub Stats — all-time commits, stars, PRs -->
-<img src="https://github-readme-stats.vercel.app/api?username=panchalaman&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panchalaman&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&rank_icon=github)
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchalaman&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalaman&layout=compact&theme=dracula&hide_border=true)
 
-</p>
-
-<!-- GitHub Streak -->
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=panchalaman&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=panchalaman&theme=dracula&hide_border=true)
 ---
 
 ### 📫 Connect with Me
