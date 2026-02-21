@@ -1,5 +1,7 @@
 # Hi there, I'm Aman Panchal! 👋
 
+![Profile Views](https://komarev.com/ghpvc/?username=panchalaman&color=6c63ff&style=flat-square&label=Profile+Views)
+
 ### 🚀 Data Engineer | AI & Data Science Background | Building the Nervous System of AI
 
 I am a 23-year-old Data Engineer with a unique edge: **I speak the language of Data Scientists.** Hailing from a background in **AI, Data Science, and Digital Business**, I realized that the best AI models fail without reliable infrastructure. Now, I build the scalable, reliable pipelines that power intelligent enterprises.
@@ -47,12 +49,20 @@ I focus on the **Modern Data Stack** and **Cloud-Native** technologies essential
 
 ### 📈 GitHub Stats
 
-<!-- GitHub Stats Card -->
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panchalaman&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+<p align="center">
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalaman&layout=compact&theme=dracula&hide_border=true)
+<!-- GitHub Stats — all-time commits, stars, PRs -->
+<img src="https://github-readme-stats.vercel.app/api?username=panchalaman&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
 
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panchalaman&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
+
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=panchalaman&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</p>
 ---
 
 ### 📫 Connect with Me
