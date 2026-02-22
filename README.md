@@ -8,6 +8,8 @@ I studied AI, Data Science, and Digital Business — and that's exactly why I mo
 
 I've worked with structured data, semi-structured formats, and genuinely messy unstructured sources (Python list strings embedded in CSVs — yes, really). Cleaning and normalizing that kind of data into something a model can consume is what I do.
 
+Beyond the technical side, I bring insurance domain knowledge and a solid understanding of how the business actually works — the products, the processes, the people. I've led teams, communicated across departments, and I know that a pipeline only matters if the people downstream trust and use it.
+
 This GitHub is where I learn in public. Every project here was built by hand, tested in the terminal, and documented like I'd want to read it myself.
 
 ---
@@ -23,6 +25,8 @@ This GitHub is where I learn in public. Every project here was built by hand, te
 | **Containers & IaC** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white) |
 | **Streaming** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
 | **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Languages** | Fluent in English, comfortable in German |
+| **Domain** | Insurance, digital business, people & leadership |
 
 ---
 
@@ -67,9 +71,15 @@ These aren't hypothetical — every one has working code, documented SQL, and a 
 
 ---
 
+### Beyond Code
+
+I read a lot — Simon Sinek's work on leadership and purpose, Tony Robbins' *Life Force* on health and performance. I think good engineering comes from clear thinking, and clear thinking comes from taking care of yourself and understanding why you're building what you're building.
+
+---
+
 ### Get in Touch
 
-I'm looking for data engineering roles where I can build scalable pipelines, design data models, and lay the groundwork for AI and ML systems that actually work in production. I'm based in Germany, fluent in English, and open to hybrid work.
+I'm looking for data engineering roles — ideally in insurance or financial services — where I can build scalable pipelines, design data models, and lay the groundwork for AI and ML systems that actually work in production. I'm based in Germany, fluent in English, comfortable in German, and open to hybrid work.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amanpanchal83)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:panchalaman@hotmail.com)
