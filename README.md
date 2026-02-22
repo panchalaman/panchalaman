@@ -79,7 +79,7 @@ I read a lot — Simon Sinek's work on leadership and purpose, Tony Robbins' *Li
 
 ### Get in Touch
 
-I'm looking for data engineering roles — ideally in insurance or financial services — where I can build scalable pipelines, design data models, and lay the groundwork for AI and ML systems that actually work in production. I'm based in Germany, fluent in English, comfortable in German, and open to hybrid work.
+I'm looking for data engineering roles — ideally in insurance or financial services — where I can build scalable pipelines, design data models, and lay the groundwork for AI and ML systems that actually work in production. I'm based in Berlin,Germany, fluent in English, intermediate in German, and open to hybrid work or relocate.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amanpanchal83)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:panchalaman@hotmail.com)
