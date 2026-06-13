@@ -108,7 +108,7 @@ These aren't hypothetical — every one has working code, documented SQL, and a 
 
 ### Certifications & Professional Credentials
 
-🏆 **Data Engineering Professional Certificate** (LinkedIn Learning) — Comprehensive training covering:
+🏆 **Data Engineering Professional Certificate** (Snowflake) — Comprehensive training covering:
 - Modern data stack design (Medallion architecture, ELT patterns)
 - Continuous ingestion (Snowpipe, Snowpipe Streaming)
 - Real-time transformations (Streams, Tasks, Dynamic Tables)
