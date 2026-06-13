@@ -51,12 +51,15 @@ These aren't hypothetical — every one has working code, documented SQL, and a 
 | [**Priority Jobs Pipeline**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/Data-types/4_Priority_Jobs_Pipeline) | Incremental ETL pipeline that tracks job postings by role priority. Built both the manual UPDATE+INSERT approach and a single-statement MERGE, then compared them side by side. Designed for production — handles schema evolution and idempotent re-runs. | Staging tables, upsert patterns, MERGE INTO, IS DISTINCT FROM, idempotent loads, schema evolution |
 | [**Flat CSV to Star Schema**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/Data-Engineering/SQL_COURSE/Projects/3_Flat_to_WH_Build) | Took genuinely messy semi-structured data — skills stored as Python list strings like `['SQL', 'Python']` inside a CSV — and parsed, normalized, and loaded it into a proper star schema. Self-directed project, not from any course. | String parsing (REPLACE/SPLIT/UNNEST), semi-structured data handling, surrogate keys, bridge tables, FK constraints |
 | [**Job Market EDA**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/Data-Engineering/SQL_COURSE/Projects/1_EDA) | 3 analytical queries to find the most in-demand skills, highest-paying skills, and best return on investment. Built a custom scoring formula using `LN()` to balance demand against salary — the kind of analysis that feeds into ML feature engineering. | Multi-table JOINs, MEDIAN, HAVING, logarithmic transformation, composite scoring |
+| [**Snowflake Advanced Data Engineering Portfolio**](https://github.com/panchalaman/snowflake-portfolio) | **SnowPro Certified.** Enterprise-grade Snowflake portfolio demonstrating real-world data platform design. Built a complete medallion architecture (Raw → Harmonized → Analytics) with 6 specialized modules: Real-time Streaming (Snowpipe + Streams + Tasks), Declarative Transformations (Dynamic Tables), Data Governance (Tag-based Masking, Row Access Policies), Snowpark Python integration, Secure Data Sharing, and FinOps/Cost Management. Includes a GitHub Actions CI/CD pipeline for database deployments. Every line is production-ready, heavily commented, and designed to convince recruiters. | Snowpipe, Streams, Serverless Tasks, Dynamic Tables, Snowpark Python, RBAC, Masking Policies, Data Sharing, GitHub Actions, schemachange |
+| [**Advanced Data Engineering Modules (Snowflake)**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/advanced-data-engineering-snowflake) | **5 Complete Learning Modules** with hands-on SQL, Python, and Streamlit code. Built API integrations, continuous streaming pipelines with CDC, dynamic aggregations, logging/alerting systems, Snowpark Jupyter notebooks, UDFs, Streamlit dashboards, Snowflake Native Apps, and Task orchestration DAGs. Each module includes a human-toned `LEARNING_NOTES.md` explaining what I actually learned and the reasoning behind architectural decisions. Covers weather data (Hamburg) and real food truck analytics (Tasty Bytes). | Snowflake API Integrations, JSON parsing, Streams & Tasks CDC, Dynamic Tables, Snowpark Notebooks, UDFs, Stored Procedures, Streamlit, Native Apps, Task DAGs, Email Notifications |
 
 ### Learning Resources I've Written
 
 | Resource | What's in it |
 | :--- | :--- |
 | [**SQL Course**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/Data-Engineering/SQL_COURSE/Lessons) | 15 lessons from zero to data-engineer-ready SQL — JOINs, window functions, CTEs, star schema design, ETL patterns, query optimization. All runnable in DuckDB. |
+| [**Snowflake Advanced Data Engineering**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/advanced-data-engineering-snowflake) | 5 complete modules covering Snowflake's modern data stack — API integrations, streaming with Snowpipe, CDC with Streams & Tasks, Dynamic Tables, Snowpark Python, UDFs, governance policies, and native app development. Includes learning notes for each module explaining real-world reasoning. |
 | [**Docker for Data Engineering**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/Learn%20Docker) | 15 lessons covering containers, images, Compose, networking, volumes, databases, Airflow, CI/CD pipelines, and security. Includes 3 hands-on projects and a command reference. |
 | [**Linux & Git Fundamentals**](https://github.com/panchalaman/Data-Engineering-Journey/tree/main/Learn%20Linux) | File operations, grep/awk/sed, piping, permissions, shell scripting, and Git version control. |
 
@@ -69,6 +72,21 @@ These aren't hypothetical — every one has working code, documented SQL, and a 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=panchalaman&theme=dracula&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=panchalaman&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+### Certifications & Professional Credentials
+
+🏆 **SnowPro Certified Data Engineer** — Demonstrated expertise in:
+- Modern data stack design (Medallion architecture, ELT patterns)
+- Continuous ingestion (Snowpipe, Snowpipe Streaming)
+- Real-time transformations (Streams, Tasks, Dynamic Tables)
+- Advanced analytics (Snowpark, UDFs, Stored Procedures)
+- Enterprise governance (RBAC, Masking Policies, Object Tagging)
+- Cost optimization (Resource Monitors, auto-suspend strategies)
+- Data sharing and collaboration (Secure Views, Direct Shares)
+
+**Portfolio:** [Explore my Snowflake advanced data engineering work](https://github.com/panchalaman/snowflake-portfolio) — A complete, production-ready reference architecture with 6 specialized modules demonstrating real-world enterprise patterns.
 
 ---
 
