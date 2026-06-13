@@ -143,7 +143,7 @@ I'm convinced that the best engineers aren't just technically brilliant — they
 - Solve real business problems with scalable architecture
 - Work with modern stacks (Snowflake, dbt, Streamlit, etc.)
 
-**Ideal industries:** Insurance, fintech, AI/ML platforms, or any organization that takes data seriously.
+**Ideal industries:** Any organization that takes data seriously.
 
 **Let's talk:**
 
