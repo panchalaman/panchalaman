@@ -25,7 +25,7 @@ This GitHub is where I learn in public. Every project here was built by hand, te
 
 ### What I Work With
 
-| Domain | Technologies |
+| Domain | Cloud Services |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
 | **Compute & Processing** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) |
@@ -35,7 +35,6 @@ This GitHub is where I learn in public. Every project here was built by hand, te
 | **Streaming** | ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) |
 | **Version Control** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
 | **Languages** | Fluent in English, comfortable in German |
-| **Domain** | Insurance, digital business, people & leadership |
 
 ---
 
